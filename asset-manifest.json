@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rohitwebdeploy/static/css/main.a617e044.chunk.css",
+    "main.js": "/rohitwebdeploy/static/js/main.754e152f.chunk.js",
+    "main.js.map": "/rohitwebdeploy/static/js/main.754e152f.chunk.js.map",
+    "runtime-main.js": "/rohitwebdeploy/static/js/runtime-main.5e8e183e.js",
+    "runtime-main.js.map": "/rohitwebdeploy/static/js/runtime-main.5e8e183e.js.map",
+    "static/js/2.75d060bc.chunk.js": "/rohitwebdeploy/static/js/2.75d060bc.chunk.js",
+    "static/js/2.75d060bc.chunk.js.map": "/rohitwebdeploy/static/js/2.75d060bc.chunk.js.map",
+    "static/js/3.e7b132c7.chunk.js": "/rohitwebdeploy/static/js/3.e7b132c7.chunk.js",
+    "static/js/3.e7b132c7.chunk.js.map": "/rohitwebdeploy/static/js/3.e7b132c7.chunk.js.map",
+    "index.html": "/rohitwebdeploy/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rohitwebdeploy/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.75d060bc.chunk.js.LICENSE.txt": "/rohitwebdeploy/static/js/2.75d060bc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rohitwebdeploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e8e183e.js",
+    "static/js/2.75d060bc.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.754e152f.chunk.js"
+  ]
+}
